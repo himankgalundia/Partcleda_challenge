@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Partcl/HRT Macro Placement Challenge
 
 <img src="assets/HRT.png" alt="Hudson River Trading" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/partcl.png" alt="Partcl" height="80">
@@ -306,3 +307,6 @@ The organizers may update or clarify rules, evaluation details, timelines, prize
 Participation in the competition constitutes acceptance of the current rules and any subsequent updates. The organizers’ decisions regarding scoring, eligibility, and interpretation of these rules are final.
 
 Submissions & contact information may be shared with sponsors.
+=======
+# Partcleda_challenge
+>>>>>>> 360368937c5a05273298482b3ae7b25c7b01f9a3
