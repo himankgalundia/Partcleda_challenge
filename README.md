@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Partcl/HRT Macro Placement Challenge
 
 <img src="assets/HRT.png" alt="Hudson River Trading" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/partcl.png" alt="Partcl" height="80">
@@ -86,17 +85,4 @@ Classical methods (SA, RePlAce) have been refined for decades but still have roo
 - **Issues**: [GitHub Issues](https://github.com/partcleda/partcl-macro-place-challenge/issues)
 - **Email**: contact@partcl.com
 
-## 📄 License
 
-This project is licensed under the Apache License 2.0 - see [LICENSE.md](LICENSE.md) for details.
-
-## Competition Updates
-
-The organizers may update or clarify rules, evaluation details, timelines, prizes, or infrastructure as needed to ensure fairness, technical accuracy, and smooth operation of the competition. Any updates will be communicated through official channels and will apply going forward.
-
-Participation in the competition constitutes acceptance of the current rules and any subsequent updates. The organizers’ decisions regarding scoring, eligibility, and interpretation of these rules are final.
-
-Submissions & contact information may be shared with sponsors.
-=======
-# Partcleda_challenge
->>>>>>> 360368937c5a05273298482b3ae7b25c7b01f9a3
